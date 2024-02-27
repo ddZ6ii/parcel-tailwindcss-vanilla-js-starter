@@ -1,0 +1,10 @@
+{
+  "name": "parcel-tailwindcss-vanilla-js-starter",
+  "private": true,
+  "version": "0.0.0",
+  "description": "parcel starter for html | tailwindcss | vanilla js project",
+  "source": "./src/index.html",
+  "author": "Denis Dezest <denis.dezest@gmail.com>",
+  "repository": "git@github.com:ddZ6ii/parcel-tailwindcss-vanilla-js-starter.git",
+  "license": "MIT"
+}
